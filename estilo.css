@@ -1,0 +1,78 @@
+/* ESTILOS GENERALES Y COLORES */
+body {
+    background-color: #0d0d0d; /* Negro casi total */
+    color: #e0e0e0;           /* Gris muy claro para el texto */
+    font-family: 'Segoe UI', Roboto, sans-serif;
+    font-size: 18px;
+    line-height: 1.6;
+}
+
+/* CABECERAS Y TÍTULOS */
+header {
+    background-color: #1a1a1a; /* Gris oscuro para destacar del fondo */
+    color: #a6ff00;           /* Verde Monster */
+    text-align: center;
+}
+
+h1 {
+    font-size: 45px;
+    font-family: 'Impact', sans-serif;
+    color: #a6ff00;
+}
+
+h2 {
+    background-color: #5d4037; /* Marrón tierra para separar secciones */
+    color: #ffffff;
+    font-size: 28px;
+}
+
+h3 {
+    color: #a6ff00;
+    font-size: 22px;
+    text-decoration: underline;
+}
+
+/* NAVEGACIÓN Y ENLACES */
+nav {
+    background-color: #222222;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+a {
+    color: #a6ff00;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #ffffff;
+    background-color: #444444;
+}
+
+/* TABLAS */
+table {
+    background-color: #111111;
+    border: 2px solid #a6ff00;
+    font-size: 16px;
+    color: #ffffff;
+}
+
+th {
+    background-color: #a6ff00;
+    color: #000000;
+    font-size: 18px;
+}
+
+/* LISTAS */
+ul, ol {
+    background-color: #1a1a1a;
+    color: #d1d1d1;
+}
+
+/* FOOTER */
+footer {
+    background-color: #000000;
+    color: #555555;
+    font-size: 14px;
+    text-align: right;
+}
